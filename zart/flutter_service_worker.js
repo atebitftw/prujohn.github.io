@@ -6,7 +6,7 @@ const RESOURCES = {
 "/assets\fonts\MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "/assets\LICENSE": "f7b423d5e52d21cedb1bdd6a88cb2c22",
 "/index.html": "9879d232f086c2ace421f291ba11dc2e",
-"/main.dart.js": "22f56163453e7acb015bc0023ea9a534"
+"/main.dart.js": "909a63127e83d730c0d2cd5689f31c20"
 };
 
 self.addEventListener('activate', function (event) {
